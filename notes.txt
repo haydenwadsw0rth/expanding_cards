@@ -1,0 +1,3 @@
+//<text id="test-text"> $carList[1].name loop doop scoopt ciei wkcmek mfpeomf emfeowmf</text>
+      //<button id="test-btn" type="button" class="btn btn-primary" onclick="alertCarInfo()">Vanish</button>
+      //<text><var>carList[1].name</var></text>
